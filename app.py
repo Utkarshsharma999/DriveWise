@@ -36,7 +36,7 @@ st.markdown("""
         border-left: 4px solid #4CAF50;
     }
     .answer-box {
-        background-color: #e8f5e9;
+        background-color: #000000;
         padding: 20px;
         border-radius: 10px;
         margin: 15px 0;
