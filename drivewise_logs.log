@@ -1,0 +1,55 @@
+2026-07-18 09:21:46,912 - INFO - Initializing DriveWise RAG engine...
+2026-07-18 09:21:46,912 - INFO - Use pytorch device_name: cpu
+2026-07-18 09:21:46,912 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-07-18 09:21:48,203 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:49,477 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:51,032 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:51,334 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:51,675 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:51,778 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:52,085 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:52,385 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md "HTTP/1.1 200 OK"
+2026-07-18 09:21:52,696 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:52,772 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:53,154 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:53,549 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:53,950 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-07-18 09:21:54,317 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:54,743 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:55,464 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:55,563 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:55,865 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:56,175 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:57,919 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-18 09:21:58,228 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-18 09:21:58,640 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-18 09:21:59,001 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-07-18 09:21:59,346 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-07-18 09:21:59,361 - INFO - Embedding model loaded
+2026-07-18 09:22:01,524 - INFO - Ingested 43 brochure chunks into vector store
+2026-07-18 09:22:01,524 - INFO - DriveWise initialized in 14.61s
+2026-07-18 09:22:01,524 - INFO - Processing query: 'What is the mileage?' | Brand: Hyundai | Model: Creta
+2026-07-18 09:22:01,562 - INFO - Retrieved 5 chunks in 0.033s for query: 'What is the mileage?...'
+2026-07-18 09:22:01,666 - INFO - Re-ranked 5 chunks, top score: 0.3088
+2026-07-18 09:22:01,666 - INFO - Context window: 3 chunks, 1196 chars
+2026-07-18 09:22:01,799 - INFO - Query logged: status=success, time=0.275s
+2026-07-18 09:22:01,799 - INFO - Processing query: 'How many airbags?' | Brand: Hyundai | Model: Creta
+2026-07-18 09:22:01,819 - INFO - Retrieved 5 chunks in 0.020s for query: 'How many airbags?...'
+2026-07-18 09:22:01,918 - INFO - Re-ranked 5 chunks, top score: 0.4678
+2026-07-18 09:22:01,924 - INFO - Context window: 3 chunks, 1387 chars
+2026-07-18 09:22:02,043 - INFO - Query logged: status=success, time=0.242s
+2026-07-18 09:22:02,043 - INFO - Processing query: 'What is the safety rating?' | Brand: Tata | Model: Nexon
+2026-07-18 09:22:02,054 - INFO - Retrieved 5 chunks in 0.011s for query: 'What is the safety rating?...'
+2026-07-18 09:22:02,137 - INFO - Re-ranked 5 chunks, top score: 0.3741
+2026-07-18 09:22:02,139 - INFO - Context window: 3 chunks, 1039 chars
+2026-07-18 09:22:02,229 - INFO - Query logged: status=success, time=0.186s
+2026-07-18 09:22:02,239 - INFO - Processing query: 'What is the price?' | Brand: Maruti Suzuki | Model: Brezza
+2026-07-18 09:22:02,250 - INFO - Retrieved 5 chunks in 0.011s for query: 'What is the price?...'
+2026-07-18 09:22:02,337 - INFO - Re-ranked 5 chunks, top score: 0.3299
+2026-07-18 09:22:02,337 - INFO - Context window: 3 chunks, 948 chars
+2026-07-18 09:22:02,441 - INFO - Query logged: status=success, time=0.2s
+2026-07-18 09:22:02,441 - INFO - Processing query: 'Which car has best ground clearance?' | Brand: None | Model: None
+2026-07-18 09:22:02,449 - INFO - Retrieved 5 chunks in 0.009s for query: 'Which car has best ground clearance?...'
+2026-07-18 09:22:02,532 - INFO - Re-ranked 5 chunks, top score: 0.3776
+2026-07-18 09:22:02,532 - INFO - Context window: 3 chunks, 808 chars
+2026-07-18 09:22:02,606 - INFO - Query logged: status=success, time=0.165s
